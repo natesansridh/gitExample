@@ -1,2 +1,3 @@
+role,NETID,Lastname,Firstname
 boss,natesansridh,Natesan Sridhar,Preethi
 employee,smerten,Merten,Sam
